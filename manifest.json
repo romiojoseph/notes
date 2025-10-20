@@ -2,7 +2,7 @@
     "name": "Notes",
     "short_name": "Notes",
     "description": "You don’t need new files for temporary notes. Write here and keep everything in your browser for fast access. Export periodically to avoid data loss.",
-    "start_url": "/",
+    "start_url": "/notes/",
     "display": "standalone",
     "background_color": "#181818",
     "theme_color": "#0C0C0C",
