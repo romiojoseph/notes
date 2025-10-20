@@ -3,21 +3,17 @@
     "short_name": "Notes",
     "description": "You don’t need new files for temporary notes. Write here and keep everything in your browser for fast access. Export periodically to avoid data loss.",
     "start_url": "/notes/",
+    "scope": "/notes/",
     "display": "standalone",
-    "background_color": "#181818",
-    "theme_color": "#0C0C0C",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "any",
     "icons": [
         {
             "src": "/notes/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "/notes/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any"
+            "purpose": "any maskable"
         },
         {
             "src": "/notes/icon-512x512.png",
